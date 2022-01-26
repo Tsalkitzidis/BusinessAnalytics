@@ -1,7 +1,7 @@
 # BusinessAnalytics
 Repo for the final project of course 42577 Introduction to Business Analytics at DTU
 
-This repository contains the solution to the final project of the course 42577 Introduction to Business Analytics at the Technical University of Denmark and was a collaborative effort made by Laurids Joos Mikkelsen, Jonas Peter Winberg Waaben and Kiriakos Tsalkitzidis. 
+This repository contains the solution to the final project of the course 42577 Introduction to Business Analytics at the Technical University of Denmark and is a collaborative product by Laurids Joos Mikkelsen, Jonas Peter Winberg Waaben and Kiriakos Tsalkitzidis. 
 
 The first part of the notebook is concerned with preparing the dataset for further analysis and descriptive statistics to get a deeper understanding of the data. This entails looking for wrong values, outliers, irregularities, NaN treatment and more.
 
